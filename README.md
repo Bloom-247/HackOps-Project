@@ -109,3 +109,24 @@ Debt ↓
 Transactions ↑
 ```
 These trends provide additional context for risk analysis.
+
+### 3. Document Intelligence
+
+The platform supports analysis of:
+
+- Identify Documents
+- Bank Documents
+- Salary slips
+- Income Documents
+- Buisness Documents
+
+The intended workflow is:
+
+```text
+Upload Document ↓
+OCR / Extraction ↓
+Information Matching ↓
+Consistency Checks ↓
+Document Quality Analysis ↓
+Verification Result
+```
