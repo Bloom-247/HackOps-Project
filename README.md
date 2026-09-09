@@ -71,3 +71,19 @@ Explainable AI
       ↓
 Lending Decision Engine
 ```
+
+## 🧠 Core Features
+1. Borrower Risk Analysis
+Analyze one borrower using financial, behavioral, and repayment information.
+The system evaluates factors such as:
+- Monthly income
+- Monthly expenses
+- Existing debt
+- Requested loan amount
+- Employment stability
+- Previous loans
+- Repayment history
+- Late payments
+- Income consistency
+- Transaction behavior
+- Bounced payments
