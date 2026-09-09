@@ -73,7 +73,7 @@ Lending Decision Engine
 ```
 
 ## 🧠 Core Features
-1. Borrower Risk Analysis
+### 1. Borrower Risk Analysis
 Analyze one borrower using financial, behavioral, and repayment information.
 The system evaluates factors such as:
 - Monthly income
@@ -87,3 +87,25 @@ The system evaluates factors such as:
 - Income consistency
 - Transaction behavior
 - Bounced payments
+
+### 2. Six-Month Financial Analysis
+
+LendSure AI analyzes monthly historical information instead of relying only on a single financial snapshot.
+
+The dataset contains six months of:
+
+- Income
+- Expenses
+- Debt
+- Transaction activity
+- Bounced payments
+
+This allows the system to identify trends such as:
+
+```text
+Income ↑
+Expenses →
+Debt ↓
+Transactions ↑
+```
+These trends provide additional context for risk analysis.
