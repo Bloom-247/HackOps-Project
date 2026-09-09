@@ -51,3 +51,23 @@ This can lead to:
 Traditional credit scoring can also exclude people who have limited formal credit history.
 
 LendSure AI addresses this by combining multiple sources of borrower evidence into one transparent lending-intelligence platform.
+
+## 💡 How It Works
+
+```text
+Borrower Data
+      ↓
+Feature Processing
+      ↓
+Document Intelligence
+      ↓
+Repayment Risk Analysis
+      ↓
+Fraud Intelligence
+      ↓
+Trust Intelligence
+      ↓
+Explainable AI
+      ↓
+Lending Decision Engine
+```
