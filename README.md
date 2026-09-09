@@ -135,3 +135,8 @@ Document Quality Analysis
         ↓
 Verification Result
 ```
+
+Possible results:
+- ✅ Verified
+- ⚠️ Needs Review
+- 🚨 Suspicious
