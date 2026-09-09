@@ -26,3 +26,28 @@ LendSure AI takes borrower data and produces:
 - 🕘 **Auditable Decision History**
 
 The goal is not to replace human judgment, but to give lenders better information before they lend.
+
+## 🎯 Problem
+
+Informal lending is common between:
+
+- Friends
+- Families
+- Local businesses
+- Communities
+- Small entrepreneurs
+
+But these decisions are often based on incomplete information or personal judgment.
+
+This can lead to:
+
+- Loan defaults
+- Fraud
+- Hidden financial risk
+- Payment disputes
+- Poor lending decisions
+- Broken relationships
+
+Traditional credit scoring can also exclude people who have limited formal credit history.
+
+LendSure AI addresses this by combining multiple sources of borrower evidence into one transparent lending-intelligence platform.
