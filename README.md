@@ -123,10 +123,15 @@ The platform supports analysis of:
 The intended workflow is:
 
 ```text
-Upload Document ↓
-OCR / Extraction ↓
-Information Matching ↓
-Consistency Checks ↓
-Document Quality Analysis ↓
+Upload Document 
+        ↓
+OCR / Extraction 
+        ↓
+Information Matching 
+        ↓
+Consistency Checks 
+        ↓
+Document Quality Analysis 
+        ↓
 Verification Result
 ```
